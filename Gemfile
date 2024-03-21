@@ -62,10 +62,3 @@ end
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
 gem "simple_form"
-<<<<<<< HEAD
-gem 'rspec-rails', group: [ :test ]
-gem 'rails-controller-testing', group: [ :test ]
-gem 'rspec-rails', group: [ :test ]
-gem 'rails-controller-testing', group: [ :test ]
-=======
->>>>>>> bd403a38c9ce76946b2fb86519f1670150aba2a5
